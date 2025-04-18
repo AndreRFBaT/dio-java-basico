@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.andre.exercicioSmartTv"},{"l":"edu.andre.primeira_semana"},{"l":"edu.andre.segunda_semana"},{"l":"edu.andre.tiposDeVariáveis"}];updateSearchResults();
