@@ -1,5 +1,10 @@
+
 public class AboutME {
     public static void main(String[] args) {
+        if (args.length < 4) {
+            System.out.println("Argumentos insuficientes. Certifique-se de passar todos os parâmetros.");
+            return;
+        }
     
         String nome = args[0];
         String sobrenome = args[1];
