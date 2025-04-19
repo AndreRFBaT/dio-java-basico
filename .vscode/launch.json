@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AboutMeScanner",
+            "request": "launch",
+            "mainClass": "AboutMeScanner",
+            "projectName": "dio-java-basico_b38c48a4"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -19,8 +26,8 @@
                 "Andre",
                 "Batista",
                 "37",
-                "180"],
-
+                "180"
+            ],
             "projectName": "dio-java-basico_b38c48a4"
         },
         {
